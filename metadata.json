@@ -1,0 +1,7 @@
+{
+  "name": "GearGuard AI Maintenance Dashboard",
+  "description": "A futuristic Web3-style maintenance management dashboard with AI-driven insights, Kanban tracking, and real-time equipment health monitoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
